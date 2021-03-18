@@ -100,6 +100,11 @@ a:hover {
   bottom: 300px;
 }
 
+.profile-img{
+  width: 15%;
+  margin-bottom: 20px;
+}
+
 .code-img {
   width: 25%;
   float: left;
